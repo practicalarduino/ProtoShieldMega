@@ -1,7 +1,7 @@
 Practical Arduino ProtoShield Mega
 ==================================
 Copyright 2009 Jonathan Oxer <jon@oxer.com.au>
-Copyright 2009 Mar Alexander <marc.alexander@gmail.com>
+Copyright 2009 Marc Alexander <marc.alexander@gmail.com>
 
 A general-purpose prototyping shield for the Arduino Mega
 microcontroller. Derived from the "Practical Arduino ProtoShield"
