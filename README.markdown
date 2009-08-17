@@ -87,7 +87,7 @@ text, and with all exposed surfaces gold-plated for maximum durability.
 Material:                 FR4
 Layers:                   2 Layer
 Material Details:         Standard Tg 140C
-Part Number:              PA_PROTOSHIELD
+Part Number:              PA_PROTOSHIELD (or substitute your own)
 Board Type:               Single Unit
 Board Size (width):       59.69mm
 Board Size (height):      53.34mm
