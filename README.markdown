@@ -1,6 +1,6 @@
 Practical Arduino ProtoShield Mega
 ==================================
-Copyright 2009 Jonathan Oxer <jon@oxer.com.au>
+Copyright 2009 Jonathan Oxer <jon@oxer.com.au>  
 Copyright 2009 Marc Alexander <marc.alexander@gmail.com>
 
 A general-purpose prototyping shield for the Arduino Mega
@@ -15,6 +15,7 @@ supporting components such as smoothing capacitors, status LEDs, and
 associated current limiting resistors.
 
 Features:
+
  * Reset button wired through to Arduino reset pin
  * Additional momentary button (output biased high by 10k resistor and
    pulled low by the button)
@@ -28,7 +29,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> ProtoShield.
+navigate to Projects -> eagle -> ProtoShieldMega.
 
 
 DISTRIBUTION
@@ -64,10 +65,10 @@ license, visit
 
 or send a letter to
 
-  Creative Commons
-  171 Second Street, Suite 300
-  San Francisco
-  California, 94105
+  Creative Commons  
+  171 Second Street, Suite 300  
+  San Francisco  
+  California, 94105  
   USA
 
 
@@ -84,35 +85,35 @@ should result in a decent board.
 Note that the colour options below are for a yellow board with black
 text, and with all exposed surfaces gold-plated for maximum durability.
 
-Material:                 FR4
-Layers:                   2 Layer
-Material Details:         Standard Tg 140C
-Part Number:              PA_PROTOSHIELD (or substitute your own)
-Board Type:               Single Unit
-Board Size (width):       59.69mm
-Board Size (height):      53.34mm
-Quantity:                 Select as appropriate
-Thickness:                1.2mm
-Surface Finish:           ENIG (gold)
-Copper Weight (Finished): 35um
-Min. Tracing/Spacing:     0.20mm    (8 thou)
-Min. Annular Ring:        0.30mm    (12 thou)
-Smallest Holes:           0.40mm
-Holes Numbers:            300-600
-Surface Mount:            1 side
-Soldermask:               Both sides
-Peelable Soldermask:      None
-Soldermask Color:         Yellow
-Matt Color:               None
-Silkscreen Legend:        1 side
-Silkscreen Legend Color:  Black
-Gold Fingers:             No
-Gold Fingers Number:
-Gold Fingers Chamfer:
-Slots in Board:           No Slot in Board
-Slots quantity in board:
-Testing:                  Yes
-UL Marking *:             No
-Date Code Marking *:      No
-Lead Time:                8 or 12 days, as you prefer (8 days costs more)
-Special Requirement Note: PCB is routed to outside of Dimension layer
+ * Material:                 FR4
+ * Layers:                   2 Layer
+ * Material Details:         Standard Tg 140C
+ * Part Number:              PA_PROTOSHIELD (or substitute your own)
+ * Board Type:               Single Unit
+ * Board Size (width):       59.69mm
+ * Board Size (height):      53.34mm
+ * Quantity:                 Select as appropriate
+ * Thickness:                1.2mm
+ * Surface Finish:           ENIG (gold)
+ * Copper Weight (Finished): 35um
+ * Min. Tracing/Spacing:     0.20mm    (8 thou)
+ * Min. Annular Ring:        0.30mm    (12 thou)
+ * Smallest Holes:           0.40mm
+ * Holes Numbers:            300-600
+ * Surface Mount:            1 side
+ * Soldermask:               Both sides
+ * Peelable Soldermask:      None
+ * Soldermask Color:         Yellow
+ * Matt Color:               None
+ * Silkscreen Legend:        1 side
+ * Silkscreen Legend Color:  Black
+ * Gold Fingers:             No
+ * Gold Fingers Number:
+ * Gold Fingers Chamfer:
+ * Slots in Board:           No Slot in Board
+ * Slots quantity in board:
+ * Testing:                  Yes
+ * UL Marking:               No
+ * Date Code Marking:        No
+ * Lead Time:                8 or 12 days as you prefer (8 costs more)
+ * Special Requirement Note: PCB is routed to outside of Dimension layer
