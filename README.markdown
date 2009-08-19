@@ -108,7 +108,7 @@ text, and with all exposed surfaces gold-plated for maximum durability.
  * Peelable Soldermask:      None
  * Soldermask Color:         Yellow
  * Matt Color:               None
- * Silkscreen Legend:        1 side
+ * Silkscreen Legend:        2 sides
  * Silkscreen Legend Color:  Black
  * Gold Fingers:             No
  * Gold Fingers Number:
@@ -118,5 +118,6 @@ text, and with all exposed surfaces gold-plated for maximum durability.
  * Testing:                  Yes
  * UL Marking:               No
  * Date Code Marking:        No
- * Lead Time:                8 or 12 days as you prefer (8 costs more)
- * Special Requirement Note: PCB is routed to outside of Dimension layer
+ * Lead Time:                8 or 12 days, as you prefer
+                             (8 costs a small amount more)
+ * Special Requirement Note: PCB is routed to outside line of Top layer
